@@ -1,5 +1,5 @@
 👋 Kia Ora
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunvantkai"/> <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arohaina"/> <br><br>
 Click Here for All Of My Other GitHub Repositories
 
 - 👀 I’m interested in Learning, Programming, Software development, and Web development
